@@ -1,1 +1,8 @@
-body{color: #000;}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.s{display: flex; width: 100vw;}
+.d1{width: 50vw; background-color: aqua; height: 50vh;}
+.d2{width: 50vw; background-color: blue; }
